@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PutatoeUI</string>
+    <string name="putatoe_wallet">Putatoe Wallet</string>
+    <string name="_100_reward_point_1_putatoe_credit">100 reward point = 1 putatoe credit</string>
+    <string name="_1_putatoe_credit_1_rupee">1 putatoe credit = 1 rupee</string>
+    <string name="can_be_redeemed_to_your_bank_account_above_10_000">Can be redeemed to your bank account above ₹ 10,000</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="reward_points">Reward Points</string>
+    <string name="_500">500</string>
+    <string name="add_money">Add Money</string>
+    <string name="redeem_as_credit">Redeem</string>
+    <string name="send_money_to_bank">Send Money</string>
+    <string name="transactions">Transactions</string>
+    <string name="no_past_transactions">NO PAST TRANSACTIONS</string>
+    <string name="_0_0">₹ 0.0</string>
+    <string name="amount">amount</string>
+</resources>
